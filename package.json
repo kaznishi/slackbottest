@@ -1,0 +1,21 @@
+{
+  "name": "slackbottest",
+  "version": "0.1.0",
+  "description": "slackbottest",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "v4.1.X",
+    "npm": "2.14.X"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "request": "2.61.0"
+  }
+}
